@@ -10,6 +10,7 @@ namespace s
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("as");
         }
     }
 }
